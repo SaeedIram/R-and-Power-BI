@@ -1,5 +1,5 @@
 # R-and-Power-BI
-In R, clean the data by remove missing and duplicate,check the outlier and remove them by creating box plot.
+Import the data to R, clean it by remove missing and duplicate,check the outlier and remove them by creating box plot.
 done univarite by creating bar chart and bivariate analysis by creating scatterplot
 Export data to Power BI to give visuals according to client requirment, those are below
 1.The average rotten Tomates rating of each genre
