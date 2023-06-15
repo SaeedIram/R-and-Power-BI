@@ -2,6 +2,7 @@
 Import the data to R, clean it by remove missing and duplicate,check the outlier and remove them by creating box plot.
 done univarite by creating bar chart and bivariate analysis by creating scatterplot
 Export data to Power BI to give visuals according to client requirment, those are below
+
 1.The average rotten Tomates rating of each genre
 2.The number of movies produced per year
 3.The audiance score for each film
