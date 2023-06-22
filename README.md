@@ -3,6 +3,9 @@
 
 [R script](https://github.com/SaeedIram/R-and-Power-BI/blob/main/hmps%20r%20script.R)
 
+[Assignment](https://github.com/SaeedIram/R-and-Power-BI/blob/main/R%2BPowerBI.pptx)
+
+##Step by Step Analysis.
 * Import the data to R.
 * Clean it by remove missing and duplicate.
 * Check the outlier by creating box plot and removed them.
