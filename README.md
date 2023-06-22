@@ -4,16 +4,22 @@
 * Import the data to R
 * Clean it by remove missing and duplicate
 * Check the outlier and remove them by creating box plot.
-* Pic 1 (before removing outliers)![bar chart hmps](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/70a02b22-9634-4ebc-b8ad-344d2a4ded30)
+  Before removing outliers
 
-* Pic 2 (after removing outliers) ![OUTLIER REMOVE HMPS1](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/04ea5b76-5836-4245-80d9-65156c3cb7fb)
+  ![bar chart hmps](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/70a02b22-9634-4ebc-b8ad-344d2a4ded30)
 
-* Did univarite by creating bar chart![bar chart hmps](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/48ce023b-4fd5-48aa-8621-f5ababa44744)
+* After removing outliers
 
-* Did bivariate analysis by creating scatterplot![SCATTER PLOT HMPS1](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/b83692e5-f071-4e51-bfb8-a715e1ca2b99)
+ ![OUTLIER REMOVE HMPS1](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/04ea5b76-5836-4245-80d9-65156c3cb7fb)
+
+* Did univarite by creating bar chart
+  ![bar chart hmps](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/48ce023b-4fd5-48aa-8621-f5ababa44744)
+
+* Did bivariate analysis by creating scatterplot
+  ![SCATTER PLOT HMPS1](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/b83692e5-f071-4e51-bfb8-a715e1ca2b99)
 
 * Export data to Power BI to give visuals according to client requirment.
-* 
+  
 ## Client's requirment,
 - [x] 1. The average rotten Tomates rating of each genre.
 - [x] 2. The number of movies produced per year.
