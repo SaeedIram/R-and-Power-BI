@@ -1,6 +1,8 @@
 # R-and-Power-BI
 [Data source](https://github.com/SaeedIram/R-and-Power-BI/blob/main/HollywoodsMostProfitableStories.csv)
 
+[R script](https://github.com/SaeedIram/R-and-Power-BI/blob/main/hmps%20r%20script.R)
+
 * Import the data to R.
 * Clean it by remove missing and duplicate.
 * Check the outlier by creating box plot and removed them.
