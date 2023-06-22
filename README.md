@@ -7,11 +7,14 @@
   
   ## Box plot before removing outliers
 
+![Box plot](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/bec50243-3653-4670-8812-0ee69a5fe6de)
 
 
   ## Box plot after removing outliers
 
  ![OUTLIER REMOVE HMPS1](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/04ea5b76-5836-4245-80d9-65156c3cb7fb)
+
+ Clean Data Source.
 
 * Did univarite by creating bar chart
   ![bar chart hmps](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/48ce023b-4fd5-48aa-8621-f5ababa44744)
