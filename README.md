@@ -1,13 +1,13 @@
 # R-and-Power-BI
 [Data source](https://github.com/SaeedIram/R-and-Power-BI/blob/main/HollywoodsMostProfitableStories.csv)
 
-* Import the data to R
-* Clean it by remove missing and duplicate
-* Check the outlier and remove them by creating box plot.
+* Import the data to R.
+* Clean it by remove missing and duplicate.
+* Check the outlier by creating box plot and removed them.
   
   ## Box plot before removing outliers
 
-  ![bar chart hmps](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/70a02b22-9634-4ebc-b8ad-344d2a4ded30)
+
 
   ## Box plot after removing outliers
 
