@@ -7,19 +7,20 @@
   
   ## Box plot before removing outliers
 
-![Box plot](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/bec50243-3653-4670-8812-0ee69a5fe6de)
-
+![box plot hmps with outlier](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/cd9f9b20-348c-4cf2-a049-2dabde2d100e)
 
   ## Box plot after removing outliers
 
- ![OUTLIER REMOVE HMPS1](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/04ea5b76-5836-4245-80d9-65156c3cb7fb)
+![OUTLIER REMOVE HMPS1](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/8ebebfb9-2835-4dce-9fa7-7a5dd688e2b3)
 
- Clean Data Source.
+ [Clean Data Source](https://github.com/SaeedIram/R-and-Power-BI/blob/main/clean_HMPS.csv).
 
 * Did univarite by creating bar chart
+  
   ![bar chart hmps](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/48ce023b-4fd5-48aa-8621-f5ababa44744)
 
 * Did bivariate analysis by creating scatterplot
+  
   ![SCATTER PLOT HMPS1](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/b83692e5-f071-4e51-bfb8-a715e1ca2b99)
 
 * Export data to Power BI to give visuals according to client requirment.
