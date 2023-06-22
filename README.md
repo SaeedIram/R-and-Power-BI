@@ -1,30 +1,31 @@
 # R-and-Power-BI
+[Assignment](https://github.com/SaeedIram/R-and-Power-BI/blob/main/R%2BPowerBI.pptx)
+
 [Data source](https://github.com/SaeedIram/R-and-Power-BI/blob/main/HollywoodsMostProfitableStories.csv)
 
 [R script](https://github.com/SaeedIram/R-and-Power-BI/blob/main/hmps%20r%20script.R)
 
-[Assignment](https://github.com/SaeedIram/R-and-Power-BI/blob/main/R%2BPowerBI.pptx)
-
-##Step by Step Analysis.
+## Step by Step Analysis.
 * Import the data to R.
 * Clean it by remove missing and duplicate.
 * Check the outlier by creating box plot and removed them.
   
-  ## Box plot before removing outliers
+## Box plot before removing outliers
 
 ![box plot hmps with outlier](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/cd9f9b20-348c-4cf2-a049-2dabde2d100e)
 
-  ## Box plot after removing outliers
+## Box plot after removing outliers
 
 ![OUTLIER REMOVE HMPS1](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/8ebebfb9-2835-4dce-9fa7-7a5dd688e2b3)
 
- [Clean Data Source](https://github.com/SaeedIram/R-and-Power-BI/blob/main/clean_HMPS.csv).
+## [Clean Data Source](https://github.com/SaeedIram/R-and-Power-BI/blob/main/clean_HMPS.csv).
 
-* Did univarite by creating bar chart
+### Did univarite by creating bar chart
   
-  ![bar chart hmps](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/48ce023b-4fd5-48aa-8621-f5ababa44744)
+![bar chart](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/b1b0d380-b8d6-4108-8abb-925524fe5f53)
 
-* Did bivariate analysis by creating scatterplot
+
+### Did bivariate analysis by creating scatterplot
   
   ![SCATTER PLOT HMPS1](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/b83692e5-f071-4e51-bfb8-a715e1ca2b99)
 
