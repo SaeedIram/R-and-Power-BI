@@ -4,11 +4,12 @@
 * Import the data to R
 * Clean it by remove missing and duplicate
 * Check the outlier and remove them by creating box plot.
-  Before removing outliers
+  
+  ## Box plot before removing outliers
 
   ![bar chart hmps](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/70a02b22-9634-4ebc-b8ad-344d2a4ded30)
 
-* After removing outliers
+  ## Box plot after removing outliers
 
  ![OUTLIER REMOVE HMPS1](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/04ea5b76-5836-4245-80d9-65156c3cb7fb)
 
