@@ -1,4 +1,4 @@
-# R-and-Power-BI
+# Hollywood Most Profitable Stories
 [Assignment](https://github.com/SaeedIram/R-and-Power-BI/blob/main/R%2BPowerBI.pptx)
 
 [Data source](https://github.com/SaeedIram/R-and-Power-BI/blob/main/HollywoodsMostProfitableStories.csv)
