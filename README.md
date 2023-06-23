@@ -22,8 +22,7 @@
 
 ### Did univarite by creating bar chart
   
-![bar chart](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/b1b0d380-b8d6-4108-8abb-925524fe5f53)
-
+![year hmps](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/e792dda3-768b-4c51-9aad-a251ed984cbd)
 
 ### Did bivariate analysis by creating scatterplot
   
