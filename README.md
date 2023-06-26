@@ -41,3 +41,4 @@
 Here is [link](https://app.powerbi.com/groups/me/reports/e3112616-137c-4351-8b31-c491c4d0ae2c/ReportSection?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&experience=power-bi) to dashboard for visuals with color shade of brown, blue and green which were colors of company logo.
 
  ![power](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/fd727f94-fe16-4a20-812e-982da7b17614)
+ 
