@@ -24,9 +24,10 @@
   
 ![year hmps](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/e792dda3-768b-4c51-9aad-a251ed984cbd)
 
-### Did bivariate analysis by creating scatterplot
+### Relationship between Worldwide gross and Profitabilty.
   
-  ![SCATTER PLOT HMPS1](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/b83692e5-f071-4e51-bfb8-a715e1ca2b99)
+![worldwide grossand profitabiltiy](https://github.com/SaeedIram/R-and-Power-BI/assets/136697415/e24f7ec8-aa41-429a-a216-48b0b4cb95de)
+
 
 * Export data to Power BI to give visuals according to client requirment.
   
